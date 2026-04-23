@@ -1,4 +1,4 @@
-# Dog Training Methods Analysis
+# Dog Training Methods Analysis Project
 
 A data analysis project created in Google Sheets.
 
